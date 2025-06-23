@@ -24,6 +24,11 @@
 !sophisticatedstorage-1.21.1-1.4.38.1166.jar
 !sophisticatedstorageinmotion-1.21.1-0.10.18.105.jar
 !txnilib-neoforge-1.0.24-1.21.1.jar
+
+# Simple Uncrafting Table (Server & Client)
 !UncraftingTable-neoforge-1.5.2.jar
 !mcpitanlib-3.3.3-1.21.1-neoforge.jar
 !architectury-13.0.8-neoforge.jar
+
+# Easy Mob Farm (Server & Client)
+!easy_mob_farm-neoforge-1.21.1-10.0.0.jar
