@@ -1,38 +1,46 @@
 *
 
 !.gitignore
-!accessories-neoforge-1.1.0-beta.43+1.21.1.jar
-!bellsandwhistles-0.4.7-1.21.1.jar
-!carryon-neoforge-1.21.1-2.2.2.11.jar
-!accessories-neoforge-1.1.0-beta.43+1.21.1.jar
-!bellsandwhistles-0.4.7-1.21.1.jar
-!carryon-neoforge-1.21.1-2.2.2.11.jar
-!copycats-3.0.2+mc.1.21.1-neoforge.jar
-!create-1.21.1-6.0.6.jar
-!create-dragons-plus-1.6.1.jar
-!create-enchantment-industry-2.1.6.jar
-!curios-neoforge-9.5.1+1.21.1.jar
+
+# Toni's Immersive Lanterns (Server)
 !immersivelanterns-neoforge-1.0.6-1.21.1.jar
-!jei-1.21.1-neoforge-19.21.2.313.jar
+!accessories-neoforge-1.1.0-beta.43+1.21.1.jar
+!txnilib-neoforge-1.0.24-1.21.1.jar
 !owo-lib-neoforge-0.12.15.1-beta.3+1.21.jar
 !reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar
+
+# Sophisticated Backpacks & Storage (Server)
+!sophisticatedbackpacks-1.21.1-3.24.15.1264.jar
+!sophisticatedcore-1.21.1-1.3.52.1020.jar
+!sophisticatedstorage-1.21.1-1.4.40.1181.jar
+
+# Carry On (Server)
+!carryon-neoforge-1.21.1-2.2.2.11.jar
+
+# Create (Server)
+!create-1.21.1-6.0.6.jar
+
+# Create: Enchantment Industry (Server)
+!create-enchantment-industry-2.1.6.jar
+!create-dragons-plus-1.6.1.jar
+
+# Curios API (Server)
+!curios-neoforge-9.5.1+1.21.1.jar
+
+# Just Enough Items (Server)
+!jei-1.21.1-neoforge-19.21.2.313.jar
+
+# Sodium (Client)
 !sodium-neoforge-0.6.13+mc1.21.1.jar
 !sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar
 !sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar
-!sophisticatedbackpacks-1.21.1-3.24.15.1250.jar
-!sophisticatedcore-1.21.1-1.3.50.1004.jar
-!sophisticatedstorage-1.21.1-1.4.38.1166.jar
-!sophisticatedstorageinmotion-1.21.1-0.10.18.105.jar
-!txnilib-neoforge-1.0.24-1.21.1.jar
 
-# Simple Uncrafting Table (Server & Client)
-!UncraftingTable-neoforge-1.5.2.jar
-!mcpitanlib-3.3.3-1.21.1-neoforge.jar
-!architectury-13.0.8-neoforge.jar
+# Simple Uncrafting Table (Server)
+!uncrafteverything-1.6.1-1.21.1-neoforge.jar
 
-# Easy Mob Farm (Server & Client)
+# Easy Mob Farm (Server)
 !easy_mob_farm-neoforge-1.21.1-10.0.0.jar
 
-# Tree Harvester (Server & Client)
+# Tree Harvester (Server)
 !treeharvester-1.21.1-9.1.jar
 !collective-1.21.1-8.3.jar
