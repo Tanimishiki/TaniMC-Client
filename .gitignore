@@ -32,7 +32,10 @@
 !easy_mob_farm-neoforge-1.21.1-10.0.0.jar
 
 # Tectonic
-!tectonic-3.0.1-neoforge-1.21.1.jar
+!tectonic-3.0.12-neoforge-1.21.1.jar
+
+# Terralith
+!Terralith_1.21.x_v2.5.8.jar
 
 ########################################################
 !create_jetpack-forge-5.1.0.jar
